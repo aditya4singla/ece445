@@ -99,7 +99,7 @@ Today we all met and discussed how to go about writing the code necessary for th
 
 ## 3/31/2022 - Laser Testing and Lab Notebook
 Today we met to update our lab notebooks for the last few weeks. We also tested the new laser that just arrived today.
-
+- Our new laser seems to be perfect for our application.
 
 
 
