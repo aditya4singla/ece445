@@ -85,6 +85,22 @@ We each separately completed the teamwork evaluation I form today.
 Due to this being the week of spring break, we did not meet. 
 During this perioud we also received a notification that there were some complications with our orders, and thus we will need to resubmit the order soon.
 
+## 3/23/2022 - Ordered Parts
+Today we met to figure out what went wrong with our previous order. We also researched alternate lasers to use since the one we ordered earlier was not bright enough for our needs. We were able to put in our order for all the parts we needed.
+
+## 3/25/2022 - TA Meeting
+We met our TA today and discussed more about what to do while we waited on our parts to arrive. We decided to concentrate on writing the code required to use the GPS as well as what our timeline for the next few weeks should look like. We also secured the capacitors and resistors we will need from the free part section in the lab.
+
+## 3/28/2022 - Parts again 
+Today we got an email from facilities saying that there was another issue while ordering parts. This time due to some issue on the facilities side, our order cart was lost. Thus, we all met today again to work on ordering the parts. We also had a quick zoom call with our TA to ask him how to order the parts without any issues arising.
+
+## 3/30/2022 - GPS Code
+Today we all met and discussed how to go about writing the code necessary for the GPS. We were able to find a resource which will be extremely helpful once our parts arrive. https://circuitdigest.com/microcontroller-projects/gps-interfacing-with-pic16f877a#
+
+## 3/31/2022 - Laser Testing and Lab Notebook
+Today we met to update our lab notebooks for the last few weeks. We also tested the new laser that just arrived today.
+
+
 
 
 
