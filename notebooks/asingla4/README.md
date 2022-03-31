@@ -30,4 +30,14 @@ We had our DDC check meeting today. Some of the feedback given to us was:
 - In the RV tables we must add some tolerance for the resistor as well. We should also fix formatting (move to 1A, 1B, from just 1)
 - In the tolerance analysis we need to be more specific, especially add the angles that the servo motor will work on.
 - For safety and ethics, we should pad this section a bit more and really stress on the important ethical issue of privacy, etc.
-- 
+
+## 2/23/2022 - Meeting with TA about Design Review
+Since the Design Document is due tomorrow, we set up a meeting with our TA to go over our document and ask for feedback and suggestions on where to improve. Some of the feedback given to us was:
+- We needed to fix some formatting issues throguhout the document.
+- We have to make the verification steps in our RV table very explicit. Rather than just saying do A, we should also give a step by step guide on how to do A.
+- We should mention more tangible requirements in our high level requirements. Just saying it should be accurate is not sufficient, we should mention more numbers.
+
+## 2/24/2022 -  Complete Soldering Assignment
+We all came into the lab today and completed the soldering assignment. Since we had already soldered the parts last week, working on the software component was relatively quick and easy.
+
+
