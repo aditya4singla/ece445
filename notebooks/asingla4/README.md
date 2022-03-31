@@ -1,5 +1,8 @@
 # Aditya's Lab Notebook
 
+## 2/1/2022 Meeting with Machine Shop
+We met with Greg Benett from the machine shop today. We got an initial idea on what kind of box we might need for our project. We were also given some suggestions on what servo-motor to use, and what laser to use.
+
 ## 2/8/2022 - First TA Meeting 
 We talked roughly about how this project will shape up. Daniel mentioned the following things:
 - How to design the PCB: We will mostly follow the steps outlined in the CAD assignment, but instead import the components required for our particular project.
