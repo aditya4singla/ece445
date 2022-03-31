@@ -63,5 +63,29 @@ We had our design review presentation today. It went pretty well, but we got som
 
 Later in the day we also attended the PCB board review and got an okay on our current design.
 
+## 3/5/2022 - Team Meeting to complete PCB Design and Design Document
+We meet today virtually to work on completing the PCB design since round 1 orders are due next week. We also worked on the corrections in our design document based on the feedback we received from our design review. Since second chance submissions for the design document are due tonight, this was our highest priority.
+
+## 3/7/2022 - General Meeting with TA
+Today we met our TA for our wweekly meeting. Important points from this meeting were:
+- finalizing what parts to order
+- since the microcontroller we wanted to order was no longer available, we discussed what alternatives we could explore
+- questions regarding our PCB design 
+- general discussion about feedback from the design review.
+
+Since we were able to shortlist the parts we needed last week while working on the design document, we also decided to finish ordering all the parts we needed. We were able to submit our orders.
+
+## 3/8/2022 - PCB Order Round 1 
+Today the PCB round 1 orders were due. Our teammate Carlos worked on the PCB design and finished the ordering process.
+
+## 3/9/2022 - Teamwork Evaluation
+We each separately completed the teamwork evaluation I form today.
+
+## 3/11/2022 - 3/20/2022 - Spring Break
+Due to this being the week of spring break, we did not meet. 
+During this perioud we also received a notification that there were some complications with our orders, and thus we will need to resubmit the order soon.
+
+
+
 
 
