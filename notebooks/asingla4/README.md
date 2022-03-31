@@ -40,4 +40,25 @@ Since the Design Document is due tomorrow, we set up a meeting with our TA to go
 ## 2/24/2022 -  Complete Soldering Assignment
 We all came into the lab today and completed the soldering assignment. Since we had already soldered the parts last week, working on the software component was relatively quick and easy.
 
+## 2/28/2022 - Preparation for Design Review
+Today we had our weekly meeting with our TA. We discussed the following things:
+- what parts we should order for our needs
+- we wanted to check if our PCB design looked okay
+- how to prepare for the design review: Daniel told us how to divide the presentation and how much time we should spend on the different parts of our paper
+
+We also worked as a team after the meeting to work on PCB designs as well as getting prepared for the design review.
+
+I also had a peer design review today, so I attended another team's design review.
+
+## 3/1/2022 - Design Review and PCB Board Review
+We had our design review presentation today. It went pretty well, but we got some valuable feedback:
+- Battery: worries that it may be too heavy. Perhaps prove that it isn't too heavy?
+- Laser: 3s update seems ok but don't want the laser to move too quickly.
+- Reference the angle on your physical design page so everyone understands what the angle is measured with respect to.
+- Table titles need to be above the table, figure titles need to be below the figure.
+- Update tolerance analysis for the MCU voltage
+
+Later in the day we also attended the PCB board review and got an okay on our current design.
+
+
 
