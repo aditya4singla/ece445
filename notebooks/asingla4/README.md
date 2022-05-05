@@ -101,7 +101,60 @@ Today we all met and discussed how to go about writing the code necessary for th
 Today we met to update our lab notebooks for the last few weeks. We also tested the new laser that just arrived today.
 - Our new laser seems to be perfect for our application.
 
+## 4/01/2022 - Meeting with TA
+We met our TA today to discuss the progress of our project. We talked about PCB design and the best way to get started on the code part.
 
+## 04/05/2022 - Parts Pickup
+We came into the lab today to pick up our parts. We tested initially on the breadboard. The parts look good for now.
 
+## 04/07/2022 - Soldering of parts
+We soldered the microcontroller and the other components to our PCB. After this we checked the connections through a multimeter.
 
+## 04/09/2022 - Remaining parts come in
+All the parts were delivered today. We completed the soldering. However, we noticed that some of the parts were incorrect, so we had to order a new batch of parts, specifically the 32 mHz crystal required for our microcontroller.
+
+## 04/11/2022 - Testing Subsystems
+Today we built the LCD circuit using an arduino on the breadboard. We were able to complete our R&V for this subsystem today.
+
+## 04/12/2022 - Disaster with Microcontroller
+We tried programming our microcontroller today but we got no response from the PCB. We realized that this microcontroller ATMEGA809 is not compatible with Usbasp. We spent most of today looking for alternatives and found one: which is to use the UPDI pin to program the microcontroller.
+
+## 04/13/2022 - Change of Plan
+Unfortunately we were not able to program our MCU using the UPDI pin. This is because it is impossible to solder a wire to access it and since our original design did not use it, we did not have an external pin for this. Today we decided to move completely to an ATMEGA328P. We ordered an arduino nano which we plan on removing the atmega from. We also began a new PCB design
+
+## 04/14/2022 - PCB Design
+We spent the entire day designing the new PCB today. We almost have the new design ready.
+
+## 04/15/2022 - PCB Order
+We ordered the new PCB from PCBWay. We also tested the buttons and servomotor on the LCD breadboard circuit from before. 
+
+## 04/17/2022 - Built Breadboard Circuit
+Today we spent the entire day building the breadboard equivalent circuit for our design. We used a breadboard ATMEGA328. We were unable to get it to work the whole day.
+
+## 04/18/2022 - Fixed Circuit
+Today we were able to get our circuit to work. We switched to an external clock and this resulted in us being able to program the microcontroller. We uploaded the same code as we did in the arduino and verified that the LCD worked. 
+
+## 04/19/2022 - Continued testing subsystems
+We continued testing the LCD, buttons, servo-motor and regulators on the breadboard today. We were able to verify that our design was good.
+
+## 04/20/2022 - Mock Demo
+We had our mock demo today. So we discussed with our TA regarding our current situation as well demoing the breadboard circuit. 
+
+## 04/21/2022 - PCB Arrives
+Today we spent the whole day soldering the parts onto our PCB. We then worked on programming our microcontroller. We were able to program it.
+
+## 04/22/2022 - Testing LCD on PCB
+Today we tested our LCD on our PCB. We ran into some issues, but we were able to resolve them. We plan on working on the buttons and servomotor tomorrow.
+
+## 04/23/2022 -> 04/24/2022: Locker stuck
+Our locker got stuck due to something pressing on the lock from inside. We could not make any progress.
+
+## 04/25/2022 - Complete all subsystems
+Today we spent all day working on making all the subsytems work with the PCB. We also spent a lot of time working on the GPS functionality. We were able to get it all work. The only thing we could not figure out was the servomotor.
+
+## 04/26/2022 - Work on Servo
+We spent all day troubleshooting our servo-motor. However, we could not figure out what the issue was. Thus, we decided to do our demo tomorrow without the servo-motor.
+
+## 04/27/2022 - Demo
+Today we demo-ed our project. This marks the end of our project.
 
